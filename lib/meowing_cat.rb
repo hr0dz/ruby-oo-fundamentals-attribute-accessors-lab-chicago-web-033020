@@ -13,7 +13,7 @@ class Cat
   end
   
   def meow()
-    maru.meow
+
     puts "meow!"
   end
  
