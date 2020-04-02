@@ -12,7 +12,7 @@ class Cat
     @name=new_name
   end
   
-  def .meow()
+  def meow()
     maru.meow
     puts "meow!"
   end
