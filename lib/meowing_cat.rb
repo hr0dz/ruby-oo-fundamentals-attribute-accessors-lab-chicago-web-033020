@@ -12,12 +12,16 @@ class Cat
     @name=new_name
   end
   
+  def .meow()
+    maru.meow
+    puts "meow!"
+  end
  
   
 end
 
 maru = Cat.new
 maru.name = "Maru"
-puts maru.meow
+
 
 
