@@ -18,6 +18,6 @@ end
 
 maru = Cat.new
 maru.name = "Maru"
-return maru.meow
+puts maru.meow
 
 
